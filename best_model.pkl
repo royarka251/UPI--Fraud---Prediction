@@ -1,0 +1,1 @@
+Trained Random Forest machine learning model for UPI Fraud Detection, saved using Joblib for future prediction and deployment.
